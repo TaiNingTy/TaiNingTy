@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 284" width="800" height="284" role="img" aria-label="AI Station Configuration: A multi-agent system that configures autonomous-transit stations, and knows when to defer to a human.">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .a { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; transform-box: fill-box; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); }
+                    to   { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }</style>
+<rect width="800" height="284" rx="28" fill="#f5f5f7"/>
+<text x="48" y="69" text-anchor="start" font-size="13" font-weight="600" letter-spacing="2" fill="#6e6e73">CASE STUDY 01</text>
+<text x="48" y="119" font-size="32" font-weight="600" letter-spacing="-.5" fill="#1d1d1f">AI Station Configuration</text>
+<text x="48" y="168" font-size="21" fill="#6e6e73">A multi-agent system that configures autonomous-transit</text>
+<text x="48" y="197" font-size="21" fill="#6e6e73">stations, and knows when to defer to a human.</text>
+<text x="48" y="241" font-size="21" fill="#0066cc">Read the case study ›</text>
+</svg>

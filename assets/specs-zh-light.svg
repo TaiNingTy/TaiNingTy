@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 629" width="800" height="629" role="img" aria-label="技术规格">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .a { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; transform-box: fill-box; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); }
+                    to   { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }</style>
+<text x="0" y="48" font-size="34" font-weight="700" letter-spacing="-.6" fill="#1d1d1f">技术规格</text>
+<line x1="0" x2="800" y1="74" y2="74" stroke="#1d1d1f" stroke-width="1.5"/>
+<g class="a" style="animation-delay:0.15s"><text x="0" y="140" font-size="20" font-weight="600" fill="#1d1d1f">型号</text><text x="230" y="140" font-size="21" fill="#1d1d1f"><tspan font-weight="400">Tai Ning</tspan></text><text x="230" y="172" font-size="21" fill="#1d1d1f"><tspan font-weight="400">AI 产品经理</tspan></text></g>
+<line x1="0" x2="800" y1="195" y2="195" stroke="#d2d2d7" stroke-width="1"/>
+<g class="a" style="animation-delay:0.27s"><text x="0" y="239" font-size="20" font-weight="600" fill="#1d1d1f">核心功能</text><text x="230" y="239" font-size="21" fill="#1d1d1f"><tspan font-weight="400">把零散的领域经验，</tspan></text><text x="230" y="270" font-size="21" fill="#1d1d1f"><tspan font-weight="400">转化为可落地的规则、数据和智能体。</tspan></text></g>
+<line x1="0" x2="800" y1="293" y2="293" stroke="#d2d2d7" stroke-width="1"/>
+<g class="a" style="animation-delay:0.39s"><text x="0" y="338" font-size="20" font-weight="600" fill="#1d1d1f">安全</text><text x="230" y="338" font-size="21" fill="#1d1d1f"><tspan font-weight="400">默认人在回路。</tspan></text><text x="230" y="369" font-size="21" fill="#1d1d1f"><tspan font-weight="400">知道 AI 何时该交给人。</tspan></text></g>
+<line x1="0" x2="800" y1="392" y2="392" stroke="#d2d2d7" stroke-width="1"/>
+<g class="a" style="animation-delay:0.51s"><text x="0" y="436" font-size="20" font-weight="600" fill="#1d1d1f">已发布</text><text x="230" y="436" font-size="21" fill="#1d1d1f"><tspan font-weight="600">AI Station Configuration</tspan><tspan font-weight="400"> — 人工把关的智能体</tspan></text><text x="230" y="468" font-size="21" fill="#1d1d1f"><tspan font-weight="600">Station Decision Support V2</tspan><tspan font-weight="400"> — 进行中</tspan></text></g>
+<line x1="0" x2="800" y1="491" y2="491" stroke="#d2d2d7" stroke-width="1"/>
+<g class="a" style="animation-delay:0.63s"><text x="0" y="535" font-size="20" font-weight="600" fill="#1d1d1f">教育</text><text x="230" y="535" font-size="21" fill="#1d1d1f"><tspan font-weight="400">哥伦比亚大学</tspan></text></g>
+<line x1="0" x2="800" y1="558" y2="558" stroke="#d2d2d7" stroke-width="1"/>
+<g class="a" style="animation-delay:0.75s"><text x="0" y="602" font-size="20" font-weight="600" fill="#1d1d1f">兼容</text><text x="230" y="602" font-size="21" fill="#1d1d1f"><tspan font-weight="400">工程师 · 设计师 · 领域专家</tspan></text></g>
+<line x1="0" x2="800" y1="625" y2="625" stroke="#d2d2d7" stroke-width="1"/>
+</svg>

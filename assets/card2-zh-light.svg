@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 254" width="800" height="254" role="img" aria-label="Station Decision Support V2: 基于真实城市数据，规则清晰，知识库可追溯。">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .a { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; transform-box: fill-box; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); }
+                    to   { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }</style>
+<rect width="800" height="254" rx="28" fill="#f5f5f7"/>
+<text x="48" y="69" text-anchor="start" font-size="13" font-weight="600" letter-spacing="2" fill="#6e6e73">案例 02</text>
+<rect x="671" y="49" width="81" height="31" rx="15.5" fill="none" stroke="#d2d2d7"/><text x="711" y="70.6" text-anchor="middle" font-size="17" fill="#6e6e73">进行中</text>
+<text x="48" y="119" font-size="32" font-weight="600" letter-spacing="-.5" fill="#1d1d1f">Station Decision Support V2</text>
+<text x="48" y="168" font-size="21" fill="#6e6e73">基于真实城市数据，规则清晰，知识库可追溯。</text>
+<text x="48" y="212" font-size="21" fill="#0066cc">关注进展 ›</text>
+</svg>

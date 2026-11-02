@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 296" width="400" height="296" role="img" aria-label="将想法 转化为可用的体验。 通过研究与动手制作原型，探索设计、AI 产品与创意工具。带领项目、连接不同专业，将想法转化为可用的体验。">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .a { animation: rise .9s cubic-bezier(.2,.7,.2,1) both; transform-box: fill-box; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); }
+                    to   { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }</style>
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#2997ff"/><stop offset=".5" stop-color="#a259ff"/><stop offset="1" stop-color="#ff5e8a"/></linearGradient></defs>
+<text x="0" y="30" text-anchor="start" font-size="12" font-weight="600" letter-spacing="2" fill="#a1a1a6" class="a">TAI NING</text>
+<text class="a" style="animation-delay:0.20s" x="0" y="79" font-size="36" font-weight="700" letter-spacing="-1.5" fill="#f5f5f7">将想法</text>
+<text class="a" style="animation-delay:0.50s" x="0" y="118" font-size="36" font-weight="700" letter-spacing="-1.5" fill="url(#g)">转化为可用的体验。</text>
+<text class="a" style="animation-delay:0.90s" x="0" y="174" text-anchor="start" font-size="18" font-weight="600" fill="#f5f5f7">跨领域设计 · AI 产品 · 创意技术</text>
+<text class="a" style="animation-delay:1.10s" x="0" y="205" text-anchor="start" font-size="18" font-weight="400" fill="#a1a1a6">通过研究与动手制作原型，探索设计、AI</text><text class="a" style="animation-delay:1.16s" x="0" y="232" text-anchor="start" font-size="18" font-weight="400" fill="#a1a1a6">产品与创意工具。带领项目、连接不同专</text><text class="a" style="animation-delay:1.22s" x="0" y="259" text-anchor="start" font-size="18" font-weight="400" fill="#a1a1a6">业，将想法转化为可用的体验。</text>
+<line x1="0" x2="400" y1="295" y2="295" stroke="#424245" stroke-width="1"/>
+</svg>
